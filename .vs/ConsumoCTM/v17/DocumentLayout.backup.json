@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Notebooks\\faceMesh\\HUBCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\HUBCore\\HUBCore\\hubs\\testhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:HUBCore\\hubs\\testhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\HUBCore\\HUBCore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:HUBCore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\HUBCore\\HUBCore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:HUBCore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\HUBCore\\HUBCore\\controllers\\intellicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:HUBCore\\controllers\\intellicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\HUBCore\\HUBCore\\vcash\\dispositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:HUBCore\\vcash\\dispositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispositivos.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Vcash\\Dispositivos.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Vcash\\Dispositivos.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Vcash\\Dispositivos.cs",
+              "RelativeToolTip": "HUBCore\\Vcash\\Dispositivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:23:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Startup.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Startup.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Startup.cs",
+              "RelativeToolTip": "HUBCore\\Startup.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:53:12.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestHub.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Hubs\\TestHub.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Hubs\\TestHub.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Hubs\\TestHub.cs",
+              "RelativeToolTip": "HUBCore\\Hubs\\TestHub.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:35:55.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "intelliController.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Controllers\\intelliController.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Controllers\\intelliController.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Controllers\\intelliController.cs",
+              "RelativeToolTip": "HUBCore\\Controllers\\intelliController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:43:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Program.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Program.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\HUBCore\\HUBCore\\Program.cs",
+              "RelativeToolTip": "HUBCore\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:09:38.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

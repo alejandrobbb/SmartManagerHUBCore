@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "HUBCore.Controllers.intelliController",
+    "Method": "insertIntelliRecord",
+    "RelativePath": "intelli/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "HUBCore.Models.intelliModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HUBCore.Controllers.intelliController",
+    "Method": "getCollectionIntelli",
+    "RelativePath": "intelli/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.ObjectModel.Collection\u00601[[HUBCore.Models.intelliModel, HUBCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

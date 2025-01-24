@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Notebooks\\faceMesh\\hubCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\services\\intelliservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\services\\intelliservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\tools\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\tools\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\tools\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\tools\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\models\\intellimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\models\\intellimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\hubs\\testhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\hubs\\testhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|d:\\notebooks\\facemesh\\hubcore\\hubcore\\controllers\\intellicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2355AB-3CE7-4717-896E-AA27162F005D}|HUBCore\\HUBCore.csproj|solutionrelative:hubcore\\controllers\\intellicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Startup.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Startup.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Startup.cs",
+              "RelativeToolTip": "HUBCore\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:09:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToolBox.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Tools\\ToolBox.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Tools\\ToolBox.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Tools\\ToolBox.cs",
+              "RelativeToolTip": "HUBCore\\Tools\\ToolBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConnDB.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Tools\\ConnDB.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Tools\\ConnDB.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Tools\\ConnDB.cs",
+              "RelativeToolTip": "HUBCore\\Tools\\ConnDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:42.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "intelliService.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Services\\intelliService.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Services\\intelliService.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Services\\intelliService.cs",
+              "RelativeToolTip": "HUBCore\\Services\\intelliService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "intelliModel.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Models\\intelliModel.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Models\\intelliModel.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Models\\intelliModel.cs",
+              "RelativeToolTip": "HUBCore\\Models\\intelliModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:08:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "intelliController.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Controllers\\intelliController.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Controllers\\intelliController.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Controllers\\intelliController.cs",
+              "RelativeToolTip": "HUBCore\\Controllers\\intelliController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:07:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestHub.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Hubs\\TestHub.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Hubs\\TestHub.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Hubs\\TestHub.cs",
+              "RelativeToolTip": "HUBCore\\Hubs\\TestHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:07:12.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\appsettings.json",
+              "RelativeDocumentMoniker": "HUBCore\\appsettings.json",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\appsettings.json",
+              "RelativeToolTip": "HUBCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T23:06:44.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Program.cs",
+              "RelativeDocumentMoniker": "HUBCore\\Program.cs",
+              "ToolTip": "D:\\Notebooks\\faceMesh\\hubCore\\HUBCore\\Program.cs",
+              "RelativeToolTip": "HUBCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T23:06:28.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
